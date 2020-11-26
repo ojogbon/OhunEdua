@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b2d7d62-9bd6-48d9-aac7-b338111b113c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WasuzVdORXX7y8smmqffRy3Msy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Officer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Ohun\Officer" />
+      <recent name="C:\wamp64\www\Ohun\views\js" />
+      <recent name="C:\wamp64\www\Ohun\controllers" />
+      <recent name="C:\wamp64\www\Ohun\models" />
+      <recent name="C:\wamp64\www\Ohun\Ohun_in_Admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Ohun\models" />
+      <recent name="C:\wamp64\www\Ohun\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b2d7d62-9bd6-48d9-aac7-b338111b113c" name="Default Changelist" comment="" />
+      <created>1579399266357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579399266357</updated>
+      <workItem from="1579399267684" duration="1513000" />
+      <workItem from="1579667621790" duration="5068000" />
+      <workItem from="1580017434311" duration="2385000" />
+      <workItem from="1580797295621" duration="905000" />
+      <workItem from="1584907998692" duration="1345000" />
+      <workItem from="1584909542360" duration="455000" />
+      <workItem from="1584912911487" duration="766000" />
+      <workItem from="1584924719623" duration="1511000" />
+      <workItem from="1584926305011" duration="1773000" />
+      <workItem from="1584928124722" duration="1779000" />
+      <workItem from="1584929983804" duration="1767000" />
+      <workItem from="1584931810539" duration="2069000" />
+      <workItem from="1584934088737" duration="1776000" />
+      <workItem from="1584935934663" duration="1776000" />
+      <workItem from="1584937799344" duration="1946000" />
+      <workItem from="1584940576403" duration="826000" />
+      <workItem from="1584991799253" duration="1447000" />
+      <workItem from="1584993783614" duration="1454000" />
+      <workItem from="1584995658056" duration="1101000" />
+      <workItem from="1585280987611" duration="1520000" />
+      <workItem from="1585282742535" duration="1780000" />
+      <workItem from="1585284599964" duration="1827000" />
+      <workItem from="1585286509841" duration="1780000" />
+      <workItem from="1585288326625" duration="670000" />
+      <workItem from="1585328761134" duration="192000" />
+      <workItem from="1585463448924" duration="1531000" />
+      <workItem from="1585465033796" duration="1772000" />
+      <workItem from="1585467028470" duration="1694000" />
+      <workItem from="1585468800062" duration="1770000" />
+      <workItem from="1585470717714" duration="572000" />
+      <workItem from="1585508816245" duration="1693000" />
+      <workItem from="1585510842236" duration="1555000" />
+      <workItem from="1585512761298" duration="1839000" />
+      <workItem from="1585514817455" duration="1787000" />
+      <workItem from="1585516671761" duration="1886000" />
+      <workItem from="1585518601403" duration="1779000" />
+      <workItem from="1585520429410" duration="1656000" />
+      <workItem from="1585523804773" duration="1779000" />
+      <workItem from="1585525625392" duration="1780000" />
+      <workItem from="1585527518995" duration="570000" />
+      <workItem from="1587959080364" duration="1434000" />
+      <workItem from="1587960587027" duration="1744000" />
+      <workItem from="1587962437690" duration="1781000" />
+      <workItem from="1587964263873" duration="1627000" />
+      <workItem from="1587966169707" duration="1782000" />
+      <workItem from="1587968149705" duration="1796000" />
+      <workItem from="1587970008183" duration="1785000" />
+      <workItem from="1587971823468" duration="1789000" />
+      <workItem from="1587973643095" duration="884000" />
+      <workItem from="1588405871794" duration="658000" />
+      <workItem from="1588451586534" duration="583000" />
+      <workItem from="1588453284162" duration="599000" />
+      <workItem from="1588455107125" duration="599000" />
+      <workItem from="1588457013252" duration="599000" />
+      <workItem from="1588458839406" duration="599000" />
+      <workItem from="1588460798727" duration="599000" />
+      <workItem from="1588462630071" duration="639000" />
+      <workItem from="1588464448365" duration="693000" />
+      <workItem from="1588467073865" duration="665000" />
+      <workItem from="1588468915270" duration="716000" />
+      <workItem from="1588470843175" duration="598000" />
+      <workItem from="1588472698942" duration="599000" />
+      <workItem from="1588474649047" duration="606000" />
+      <workItem from="1588481040340" duration="599000" />
+      <workItem from="1588483050881" duration="599000" />
+      <workItem from="1588486924472" duration="599000" />
+      <workItem from="1588488874549" duration="599000" />
+      <workItem from="1588490770047" duration="599000" />
+      <workItem from="1588492598942" duration="599000" />
+      <workItem from="1588496052036" duration="599000" />
+      <workItem from="1588497867871" duration="599000" />
+      <workItem from="1588499698840" duration="1367000" />
+      <workItem from="1588501724756" duration="599000" />
+      <workItem from="1588503868395" duration="599000" />
+      <workItem from="1588505757110" duration="126000" />
+      <workItem from="1588507602260" duration="599000" />
+      <workItem from="1588536613770" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
